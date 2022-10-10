@@ -1,0 +1,15 @@
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\Base_de_la_prog.exe
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\Base_de_la_prog.deps.json
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\Base_de_la_prog.runtimeconfig.json
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\Base_de_la_prog.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\ref\Base_de_la_prog.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\bin\Debug\net6.0\Base_de_la_prog.pdb
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.csproj.AssemblyReference.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.AssemblyInfoInputs.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.AssemblyInfo.cs
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.csproj.CoreCompileInputs.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\ref\Base_de_la_prog.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.pdb
+C:\Users\Raffael\Documents\cours\poo\TP1\Base_de_la_prog\Base_de_la_prog\obj\Debug\net6.0\Base_de_la_prog.genruntimeconfig.cache

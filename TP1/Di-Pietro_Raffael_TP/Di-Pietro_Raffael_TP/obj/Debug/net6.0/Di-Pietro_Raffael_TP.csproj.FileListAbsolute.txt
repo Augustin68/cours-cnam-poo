@@ -1,0 +1,15 @@
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\Di-Pietro_Raffael_TP.exe
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\Di-Pietro_Raffael_TP.deps.json
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\Di-Pietro_Raffael_TP.runtimeconfig.json
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\Di-Pietro_Raffael_TP.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\ref\Di-Pietro_Raffael_TP.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\bin\Debug\net6.0\Di-Pietro_Raffael_TP.pdb
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.csproj.AssemblyReference.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.AssemblyInfoInputs.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.AssemblyInfo.cs
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.csproj.CoreCompileInputs.cache
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\ref\Di-Pietro_Raffael_TP.dll
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.pdb
+C:\Users\Raffael\Documents\cours\poo\TP1\Di-Pietro_Raffael_TP\Di-Pietro_Raffael_TP\obj\Debug\net6.0\Di-Pietro_Raffael_TP.genruntimeconfig.cache
