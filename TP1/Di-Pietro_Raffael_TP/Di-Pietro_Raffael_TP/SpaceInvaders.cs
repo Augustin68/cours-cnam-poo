@@ -13,14 +13,14 @@ namespace Di_Pietro_Raffael_TP
             this.Init();
         }
 
-        public void Main()
+        static void Main()
         {
             SpaceInvaders spaceInvaders = new SpaceInvaders();
 
             Console.WriteLine("Voici nos 3 joueurs :");
-            Console.WriteLine(this.p1.ToString());
-            Console.WriteLine(this.p2.ToString());
-            Console.WriteLine(this.p3.ToString());
+            Console.WriteLine(spaceInvaders.p1.ToString());
+            Console.WriteLine(spaceInvaders.p2.ToString());
+            Console.WriteLine(spaceInvaders.p3.ToString());
         }
 
         private void Init()
