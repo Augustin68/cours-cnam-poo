@@ -24,7 +24,7 @@ namespace Di_Pietro_Raffael_TP
 
         private static String FormatName(String name)
         {
-            return char.ToUpper(name[0]) + name.Substring(1);
+            return char.ToUpper(name[0]) + name.Substring(1).ToLower();
         }
 
         public override string ToString()

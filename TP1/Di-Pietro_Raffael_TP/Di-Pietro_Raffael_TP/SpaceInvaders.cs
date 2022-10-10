@@ -25,8 +25,8 @@ namespace Di_Pietro_Raffael_TP
 
         private void Init()
         {
-            this.p1 = new Player("Jean", "Marc", "El boss");
-            this.p2 = new Player("Hector", "Salamanca", "Muchacho");
+            this.p1 = new Player("Jean", "MARC", "El boss");
+            this.p2 = new Player("Hector", "salamanca", "Muchacho");
             this.p3 = new Player("Filipe", "Rodriguez", "Roi de la merguez");
         }
     }
