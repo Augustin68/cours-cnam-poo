@@ -8,9 +8,9 @@ namespace Di_Pietro_Raffael_TP
 {
     internal class Weapon
     {
-        private String name;
-        private int minDamage;
-        private int maxDamage;
+        public readonly String name;
+        public readonly int minDamage;
+        public readonly int maxDamage;
         EWeaponType type;
 
         public Weapon(String name, int minDamage, int maxDamage, EWeaponType type)
@@ -19,6 +19,25 @@ namespace Di_Pietro_Raffael_TP
             this.minDamage = minDamage;
             this.maxDamage = maxDamage;
             this.type = type;
+        }
+
+        public override String ToString()
+        {
+            return this.name + " (max-dégats: " + this.maxDamage + " min-dégats: " + this.minDamage + ")";
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+
+            if (obj.GetType() != typeof(Weapon))
+            {
+                return false;
+            }
+            return this.name == ((Weapon)obj).name;
         }
     }
 }

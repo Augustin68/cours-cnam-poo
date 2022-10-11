@@ -13,6 +13,9 @@ namespace Di_Pietro_Raffael_TP
         private String alias;
         public String name;
 
+        private Spaceship defaultSpaceShip;
+        
+
         public Player(String firstName, String lastName, String alias)
         {
             this.firstName = FormatName(firstName);
@@ -20,6 +23,8 @@ namespace Di_Pietro_Raffael_TP
             this.alias = FormatName(alias);
 
             this.name = this.firstName + " " + this.lastName;
+
+            this.defaultSpaceShip = new Spaceship("Vaisseau de " + this.alias, 100, 100);
         }
 
         private static String FormatName(String name)

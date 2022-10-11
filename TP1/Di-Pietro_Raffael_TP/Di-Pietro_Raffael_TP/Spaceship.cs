@@ -8,6 +8,7 @@ namespace Di_Pietro_Raffael_TP
 {
     internal class Spaceship
     {
+        private string name;
         private int maxShield;
         private int maxStructure;
 
@@ -16,7 +17,9 @@ namespace Di_Pietro_Raffael_TP
 
         private bool isDestroyed { get; set; }
 
-        public Spaceship(int maxShield, int maxStructure)
+        private List<Weapon> weapons = new List<Weapon>();
+
+        public Spaceship(string name, int maxShield, int maxStructure)
         {
             this.maxShield = maxShield;
             this.maxStructure = maxStructure;
@@ -25,6 +28,42 @@ namespace Di_Pietro_Raffael_TP
             this.currentStructure = maxStructure;
 
             this.isDestroyed = maxShield <= 0 && maxStructure <= 0;
+        }
+
+        public void AddWeapon(Weapon weapon)
+        {
+            this.weapons.Add(weapon);
+        }
+
+        public void RemoveWeapon(Weapon oWeapon)
+        {
+            this.weapons.Remove(oWeapon);
+        }
+
+        public void ClearWeapons()
+        {
+            this.weapons.Clear();
+        }
+
+        public void ViewWeapons()
+        {
+            Console.WriteLine("== Armes du vaisseau "+ this.name +"==");
+            this.weapons.ForEach(weapon =>
+            {
+                Console.WriteLine(weapon.ToString());
+            });
+            Console.WriteLine("====");
+        }
+
+        public double AverageDamages()
+        {
+            double sum = 0;
+            this.weapons.ForEach((weapon) =>
+            {
+                sum += (weapon.minDamage + weapon.maxDamage) / 2;
+            });
+
+            return sum;
         }
     }
 }
